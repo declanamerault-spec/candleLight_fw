@@ -2,7 +2,7 @@
 [![Build](https://github.com/candle-usb/candleLight_fw/actions/workflows/ci.yml/badge.svg)](https://github.com/candle-usb/candleLight_fw/actions)
 
 This is firmware for certain STM32F042x/STM32F072xB-based USB-CAN adapters, notably:
-- candleLight: <https://github.com/HubertD/candleLight> (STM32F072xB)
+- candleLightE: <https://github.com/HubertD/candleLight> (STM32F072xB)
 - candleLight FD: <https://linux-automation.com/en/products/candlelight-fd.html> (STM32G0B1CBT)
 - candleLight: <https://www.linux-automation.com/en/products/candlelight.html> (STM32F072xB)
 - cantact: <https://www.linklayer.com/tools> (STM32F042C6)
